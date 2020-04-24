@@ -1,4 +1,4 @@
-#here the inputs are fixed that is either '0' or '1'
+#here the inputs are fixed that is either '0' and '1'
 
 def equivalence(inp0, inp1, cequi, l):
 
