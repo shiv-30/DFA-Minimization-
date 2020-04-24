@@ -1,3 +1,5 @@
+#Author - SHIVAM KUMAR
+
 #here the inputs are fixed that is  '0' and '1'
 
 def equivalence(inp0, inp1, cequi, l):
